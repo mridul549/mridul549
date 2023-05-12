@@ -1,3 +1,4 @@
+[![MasterHead](https://s11.gifyu.com/images/NightTab-2.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mridul Verma</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
