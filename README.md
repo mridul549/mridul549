@@ -1,5 +1,4 @@
-<!-- [![Markhead](https://s11.gifyu.com/images/Untitled-design-18e6d51981f17a502.gif)](https://gifyu.com/image/SnuNi) -->
-![ezgif com-optimize (2)](https://github.com/mridul549/mridul549/assets/94969636/03279ff1-f26b-45de-9170-590828d3acb4)
+
 
 <h1 align="center">Hi 👋, I'm Mridul Verma</h1>
 <h3 align="center">A passionate backend developer from India</h3>
