@@ -9,11 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Technology, computers, backend developement, movies and web series.**
-
 - 📫 How to reach me **mridulv.it.21@nitj.ac.in**
-
-- ⚡ Fun fact **I can bend my thumb completely by 90°**
 
 ## 🌐 Socials:
 <p align="left">
