@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/mridul_549" target="blank"><img src="https://img.shields.io/twitter/follow/mridul_549?logo=twitter&style=for-the-badge" alt="mridul_549" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mridul549" alt="mridul549" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Currently learning **MERN Stack**
 
-- 📫 How to reach me **mridulv.it.21@nitj.ac.in**
+- 📫 Reach me at **mridulv.it.21@nitj.ac.in**
 
 ## 🌐 Socials:
 <p align="left">
