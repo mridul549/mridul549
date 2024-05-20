@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Mridul Verma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 Currently learning **MERN Stack**
-
 - 📫 Reach me at **mridulv.it.21@nitj.ac.in**
 
 ### Socials:
