@@ -4,7 +4,6 @@
 <h3 align="center">A passionate Full Stack developer, and a Freelancer from India</h3>
 
 ### 💫 About Me:
-- I’m currently working as Full Stack Developer at Vysion Technologies.
 - I’m currently learning Python, Node.js, React.js, PostgreSQL, Docker, and Kubernetes.
 - Ask me about Frontend and Backend Developement, DevOps, Tech, Movies, and TV Shows.
 
